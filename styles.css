@@ -24,9 +24,18 @@
 }
 
 
+
+.video {
+    display: block;
+    margin: 10px auto 50px auto;
+}
+
+.subheading{
+    margin-top: 10px;
+}
 .info {
     padding-top: 15px;
-    padding-left: 10px;
+    padding-left: 15px;
 }
 
 
