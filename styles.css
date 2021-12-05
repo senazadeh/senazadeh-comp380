@@ -1,12 +1,11 @@
 .header {
     color: white;
     background-color: #4c9bd3;
-    padding: 25px 50px;
+    padding: 70px 50px 40px 50px;
 }
 .toolbar {
-    color: white;
     background-color: #d4d4d4;
-    padding: 15px 25px;
+    padding: 15px 0px;
 }
 .sidebar {
     color: white;
@@ -14,13 +13,14 @@
     padding-top: 30px;
 }
 .main {
-    padding: 40px;
+    padding: 80px 120px 80px 80px;
 }
 .footer {
     color: white;
     background-color: #151515;
-    padding: 40px;
+    padding: 50px;
     font-style: italic;
+    line-height: 200%;
 }
 
 
@@ -37,7 +37,10 @@
     padding-top: 15px;
     padding-left: 15px;
 }
-
+.footerText {
+    font-size: 12px;
+    line-height: 200%;
+}
 
 
 ul {
