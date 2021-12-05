@@ -23,11 +23,18 @@
     line-height: 200%;
 }
 
-
+.white {
+    color: white;
+    list-style-type: none;
+}
 
 .video {
     display: block;
-    margin: 10px auto 50px auto;
+    margin: 50px auto 50px auto;
+}
+.image {
+    display: block;
+    margin: 50px auto 50px auto;
 }
 
 .subheading{
@@ -41,17 +48,26 @@
     font-size: 12px;
     line-height: 200%;
 }
-sub {
-    padding-left: 60px;
-}
+
+
 
 ul {
-    list-style: none;
 }
 li {
-    list-style: none;
+}
+.spaced {
+    line-height: 200%;
+}
+.quote {
+    padding: 40px 80px;
+}
+.indented {
+    padding-left: 60px;
 }
 a {
-    color: white;
     text-decoration: none;
+}
+.interactive {
+    width: 75%;
+    margin: 30px auto;
 }
